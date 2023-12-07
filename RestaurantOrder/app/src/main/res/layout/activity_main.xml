@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.kpizani.restaurantorder.MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please Enter Name: "
+        android:id="@+id/name"/>
+    <Button
+        android:text="Appetizer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:onClick="onClick"/>
+    <Button
+        android:text="Pasta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="onClick"/>
+    <Button
+        android:text="Meat/Fish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:onClick="onClick"/>
+    <Button
+        android:text="Dessert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:onClick="onClick"/>
+
+    <EditText
+        android:textSize="40px"
+        android:text="Appetizer:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/app"/>
+    <EditText
+        android:textSize="40px"
+        android:text="Pasta:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pasta"/>
+    <EditText
+        android:textSize="40px"
+        android:text="Meat/Fish:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/meat"/>
+    <EditText
+        android:textSize="40px"
+        android:text="Dessert:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dess"/>
+    <Button
+        android:text="Clear All and Start Over"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button5"
+        android:onClick="clear"/>
+    <Button
+        android:text="Confirm Order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button6"
+        android:onClick="confirm"/>
+
+
+</LinearLayout>

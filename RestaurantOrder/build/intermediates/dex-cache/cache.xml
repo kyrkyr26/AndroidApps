@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_6afa827a4bac97b87efdd4ceaec2ea56bb77ac50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_442b07c0c349d7f273ede5abd72de3713670e3d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_34cb33c098650bfd9998cb42b49e954544515cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_085f1f1c48ae6b03c79a81ad30038540d86e188e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6216aa67eb243d50b495a52be994a51b6405467">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_951243ae52d34f3fc2544bde8e72212aeda37efa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_15ef5e46906862dbcf6176c04e76b9d5efa9ef00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="966aff866efe05c90f36d4c668097676ece5fbd9">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32e7cf4d54253cb3a7273c21886d3b4fa611018a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_0d7645e54838713202848c836c18ac5bd70d294a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_065f539b1dbc7b7bc64e17a5803e18ed6a378fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_69d26b198f303b07b5d6e8378e91b6e4fe1cb92d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_5ef577aecf58e7e4a3f177758e0ad08b7c9894c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\kpiza\Documents\Mobile_Apps\RestaurantOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_8b5265987b8b9f62882cf93dc1cdb5216f8cbaf4\classes.dex" />
+    </item>
+
+</items>
