@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tic_tac_toe"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1"
+    android:background = "#000000">
+
+
+    <LinearLayout
+        android:id="@+id/lin1"
+        android:layout_width="wrap_content"
+        android:layout_height="94dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+
+        </Button>
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button2"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+
+        </Button>
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button3"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin2"
+        android:layout_width="wrap_content"
+        android:layout_height="92dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_weight="0.01">
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button4"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+
+        </Button>
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button5"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+
+        </Button>
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button6"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin3"
+        android:layout_width="wrap_content"
+        android:layout_height="79dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_weight="0.08">
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button7"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+
+        </Button>
+
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button8"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+
+        </Button>
+        <Button
+            android:text=""
+            android:layout_width="132dp"
+            android:layout_height="93dp"
+            android:id="@+id/button9"
+            android:layout_weight="0.10"
+            android:onClick="onClick">
+        </Button>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click A Button To Start"
+        android:id="@+id/textView"
+        android:textSize="25dp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Score Results"
+        android:id="@+id/scoreView"
+        android:textSize="25dp"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:id="@+id/again"
+        android:text="Again?"
+        android:onClick="onClick"/>
+</LinearLayout>
