@@ -1,0 +1,19 @@
+com/example/kpizani/cds/Songs.java
+ com.example.kpizani.cds.Songs
+ com.example.kpizani.cds.Songs$1
+com/example/kpizani/cds/BuildConfig.java
+ com.example.kpizani.cds.BuildConfig
+com/example/kpizani/cds/MainActivity.java
+ com.example.kpizani.cds.MainActivity
+ com.example.kpizani.cds.MainActivity$1
+ com.example.kpizani.cds.MainActivity$2
+com/example/kpizani/cds/SongDelete.java
+ com.example.kpizani.cds.SongDelete
+com/example/kpizani/cds/InsertCD.java
+ com.example.kpizani.cds.InsertCD
+com/example/kpizani/cds/InsertSong.java
+ com.example.kpizani.cds.InsertSong
+com/example/kpizani/cds/Delete.java
+ com.example.kpizani.cds.Delete
+com/example/kpizani/cds/Edit.java
+ com.example.kpizani.cds.Edit

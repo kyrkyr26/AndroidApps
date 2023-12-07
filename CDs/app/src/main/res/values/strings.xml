@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CDs</string>
+    <string name="songs_will_be_lost_if_you_later_change_album_name_make_sure_it_s_correct_before_adding_songs">Songs will be lost if you later change album name. Make sure it\'s correct before adding songs!</string>
+    <string name="cd_title">CD Title</string>
+    <string name="cd_artist">CD Artist</string>
+    <string name="submit">Submit</string>
+    <string name="cd_rating_1_5">CD Rating (1-5)</string>
+</resources>
