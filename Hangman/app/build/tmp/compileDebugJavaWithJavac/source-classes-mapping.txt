@@ -1,4 +1,0 @@
-com/example/kpizani/hangman/MainActivity.java
- com.example.kpizani.hangman.MainActivity
-com/example/kpizani/hangman/BuildConfig.java
- com.example.kpizani.hangman.BuildConfig
