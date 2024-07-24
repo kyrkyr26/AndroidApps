@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Team Tracker</string>
+    <string name="nav_header_title">My Team Tracker</string>
+    <string name="nav_header_subtitle">Choose A Sport</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">My Teams</string>
+    <string name="menu_nfl">NFL</string>
+    <string name="menu_mlb">MLB</string>
+    <string name="menu_nhl">NHL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
